@@ -1,0 +1,17 @@
+commit 87400f2845ae84202a3775d9a01be508911d53b7
+Author: sam1829 <sam1829@rit.edu>
+Date:   Tue May 3 19:47:11 2016 -0400
+
+    Completed leave method and finished debugging.
+
+commit 389230b5bc347fc21a76f5ca89e76da1f7e826d2
+Author: sam1829 <sam1829@rit.edu>
+Date:   Tue May 3 19:20:27 2016 -0400
+
+    Completed enter method
+
+commit 69318da584a0a53638f29ecc9cf21ca4d995971c
+Author: sam1829 <sam1829@rit.edu>
+Date:   Tue May 3 18:53:54 2016 -0400
+
+    Completed contructor and "run" method
